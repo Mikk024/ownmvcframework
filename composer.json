@@ -1,0 +1,17 @@
+{
+    "name": "mikk044/own-mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mikk024",
+            "email": "mikolajgodek024@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
